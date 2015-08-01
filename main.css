@@ -1,0 +1,20 @@
+body{
+background: url('splash5.jpg');
+#background-color: green;
+bachground-size: cover;
+background-position: center;
+background-attachment: fixed;
+line-height: 1.5;
+color: white;
+
+}
+
+.container{
+width: 350px;
+margin: 100px auto;
+padding: 20px;
+background: black;
+background-color: rgba(0,0,0,0.6);
+text-allign: center;
+border-radius: 40px;
+}
